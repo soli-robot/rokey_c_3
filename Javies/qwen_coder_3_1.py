@@ -1,5 +1,5 @@
 """
-[Coder Agent 4.0 - Ollama + Socket 통신 + Firebase 연동 코드 생성 스크립트]
+[Coder Agent 3.1 - Ollama + Socket 통신 + Firebase 연동 코드 생성 스크립트]
 
 이 코드는 4060 GPU가 장착된 로컬 PC에서 Ollama 모델을 실행하여,
 작업반장 Agent가 만든 작업 시퀀스를 두산 M0609 로봇 제어용 Python 코드로 변환하는 Coder Agent 스크립트이다.
